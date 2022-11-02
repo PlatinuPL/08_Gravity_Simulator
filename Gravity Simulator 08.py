@@ -1,4 +1,4 @@
-
+#A simple gravity simulator that can show how the balls will behave at a certain gravity value
 from ast import main
 from cProfile import label
 from ipaddress import collapse_addresses
